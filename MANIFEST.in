@@ -1,0 +1,4 @@
+include wsgidav/LICENSE
+include wsgidav/server/sample_bogo_server.crt
+include wsgidav/server/sample_bogo_server.csr
+include wsgidav/server/sample_bogo_server.key
